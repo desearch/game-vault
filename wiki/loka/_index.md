@@ -16,6 +16,7 @@ VR-native, AI-orchestrated intent-driven open-world game. Shared map, personal t
 | Article | Description |
 |---|---|
 | [Business Proposal](business-proposal.md) | Full stakeholder-facing business proposal — problem, market, solution, financials, competitive landscape, funding ask, risk analysis, vision |
+| [Technical Reference](technical-reference.md) | Complete technical reference — system architecture, data schemas, agent protocols, infrastructure by phase, security, performance SLAs, testing strategy, glossary |
 | [Game Concept](game-concept.md) | Core design philosophy, world architecture (Manifold Map, timelines, Private Bubble), onboarding, Pantheon, monetization, MVP phases |
 | [Intent Engine](intent-engine.md) | The Player Intent Model (PIM), 256-dim intent vectors, how the world responds in real time, the Challenger agent |
 | [Multi-Agent System](multi-agent-system.md) | Six-agent mesh (Oracle, Weaver, Challenger, Smith, Hermès, Ancestor), World State Broker, intelligence tiers 0–5 |

@@ -15,6 +15,8 @@ Knowledge base for game concepts, design documents, and related research.
 ## Recent Compilations
 
 - **2026-04-08** — Initial compile of LOKA raw files: game concept doc + Claude conversation log (includes budget analysis and design rationale)
+- **2026-04-08** — Business proposal added (all-stakeholder document)
+- **2026-04-08** — Technical reference added (system architecture, schemas, security, SLAs, testing, glossary)
 
 ---
 
